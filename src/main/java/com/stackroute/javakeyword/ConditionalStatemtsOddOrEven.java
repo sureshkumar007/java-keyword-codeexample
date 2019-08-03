@@ -2,7 +2,7 @@ package com.stackroute.javakeyword;
 
 import java.util.Scanner;
 
-public class ConditionalAndLooping
+public class ConditionalStatemtsOddOrEven
 {
     public static void main(String args[]) {
         /*
